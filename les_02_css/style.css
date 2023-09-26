@@ -1,0 +1,28 @@
+body{
+    background-color: #eee;
+}
+h1{
+    background-color: maroon;
+    color: white;
+    text-align: center;
+}
+h2{
+    background-color: lightblue;
+    border-left: 6px solid;
+    border-color: darkblue;
+    padding: 10px;
+    
+}
+p{
+    color: gray;
+    margin-bottom: 25px;
+}
+.lijntje{
+    text-decoration-line: underline;
+    font-weight: 700;
+}
+#extra{
+    color: black;
+    font-weight: 700;
+   
+}
