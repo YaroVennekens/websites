@@ -1,0 +1,38 @@
+:root{
+    --een: #e6a2a2;
+    --texteen: #600;
+
+    --twee: #a2c4e6;
+    --textween: #004080;
+    
+    --drie: #a2e6c4;
+    --textdrie: #00663d;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.section{
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    border: 3px solid;
+    border-color: #000000;
+    border-radius: 10px;
+}
+
+.een{
+    background-color: var(--een);
+    color: var(--texteen);
+}
+
+.twee{
+    background-color: var(--twee);
+    color: var(--textween);
+}
+
+.drie{
+    background-color: var(--drie);
+    color: var(--textdrie);
+}
