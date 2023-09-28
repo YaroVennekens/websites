@@ -32,3 +32,6 @@ a:link{
     text-align: center;
     background-color: var(--blauw-thomasmore);
 }
+.afbeelding-breedte{
+    width: 200px;
+}

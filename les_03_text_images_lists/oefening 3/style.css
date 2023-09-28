@@ -33,3 +33,6 @@ a:link{
 a:hover{
     color: var(--color-thomasmore);
 }
+.afbeelding-breedte{
+    width: 200px;
+}
