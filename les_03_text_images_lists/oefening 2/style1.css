@@ -1,5 +1,6 @@
 :root{
     --thomasmore: #ec6338;
+    --blauw-thomasmore: #082333;
 }
 
 h1{
@@ -9,7 +10,7 @@ h1{
     color: var(--thomasmore);
 }
 a:link{
-    color:darkblue;
+    color:var(--blauw-thomasmore);
 }
 a:hover{
 color: var(--thomasmore);

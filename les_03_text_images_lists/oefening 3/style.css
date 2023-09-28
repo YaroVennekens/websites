@@ -1,5 +1,6 @@
 :root{
     --color-thomasmore: #ec6338;
+    --blauw-thomasmore: #082333;
 }
 body{
     color: darkblue;
@@ -16,7 +17,7 @@ h2{
     margin: 0%;
     padding-top: 10px;
     font-size: 1.5em;
-    color: darkblue;
+    color: var(--blauw-thomasmore);
 }
 img{
     margin: 20px;
@@ -27,7 +28,7 @@ img{
 }
 a:link{
     text-decoration: underline;
-    color:darkblue;
+    color:var(--blauw-thomasmore);
 }
 a:hover{
     color: var(--color-thomasmore);

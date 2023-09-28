@@ -1,5 +1,6 @@
 :root{
     --thomasmore: #ec6338;
+    --blauw-thomasmore: #082333;
 }
 body{
    
@@ -13,7 +14,7 @@ h1{
 }
 hr{
     height: 1px;
-    background-color: darkblue;
+    background-color: var(--blauw-thomasmore);
 }
 img{
     border-radius: 5%;

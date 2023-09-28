@@ -1,5 +1,6 @@
 :root{
     --color-thomasmore: #ec6338;
+    --blauw-thomasmore: #082333;
 }
 
 body{
@@ -8,7 +9,7 @@ body{
 }
 hr{
     height: 1px;
-    background-color: darkblue;
+    background-color: var(--blauw-thomasmore);
 }
 h1{
     padding: 0%;
@@ -29,5 +30,5 @@ a:link{
 .container{ 
     margin: auto;
     text-align: center;
-    background-color: darkblue;
+    background-color: var(--blauw-thomasmore);
 }
