@@ -20,6 +20,7 @@ ol{
 }
 ul{
     background-color: var(--blauw-thomasmore);
+    margin-right: 5px;
     color: white;
 }
 .container{
