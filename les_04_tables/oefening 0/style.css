@@ -1,0 +1,23 @@
+table{
+  
+    border: 1px solid red;
+    border-collapse: collapse;
+    
+}
+
+
+th{
+    background-color: darksalmon;
+}
+td, th{
+    border: 1px solid red;
+
+}
+td{
+    padding: 10px;
+}
+.kleur{
+    background-color: darksalmon;
+    font-weight: bolder;
+    text-align: center;
+}

@@ -1,0 +1,31 @@
+:root{
+    --blauw-thomasmore: #082333;
+}
+
+hr{
+    width: auto;
+    height: 1px;
+    background-color: var(--blauw-thomasmore);
+}
+table{
+    border: solid;
+    border-collapse: collapse;
+    border-width: 1px;
+}
+tr{
+    border: solid gray;
+    border-width: 1px;
+}
+td{
+    border: solid gray;
+    border-width: 1px;
+    padding: 15px;
+    text-align: center;
+}
+.background{
+    background-color: var(--blauw-thomasmore);
+    color: white;
+}
+caption{
+   caption-side: bottom;
+}
