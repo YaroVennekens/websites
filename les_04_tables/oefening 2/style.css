@@ -1,0 +1,32 @@
+:root{
+    --blauw-thomasmore: #082333;
+    --oranje-thomasmore: #ec6338;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+table{
+    border: solid;
+    border-width: 1px;
+    border-collapse: collapse;
+}
+.eerstekolom{
+    background: var(--oranje-thomasmore);
+    width: 75px;
+    color: white;
+    text-align: center;
+}
+
+td{
+    border: solid gray;
+    border-width: 1px;
+    text-align: center;
+}
+
+.blauweachtergrond{
+    color: white;
+    background-color: var(--blauw-thomasmore);
+}
